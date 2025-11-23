@@ -1,64 +1,36 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
 华为
 鸿蒙
-HarmonyOS
-任正非
-
 比亚迪
-王传福
-
 大疆
 DJI
+小米
 
 宇树
-王兴兴
-
 智元
 灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
 
 京东
-刘强东
-
 字节
 bytedance
-张一鸣
+抖音
+tiktok
+腾讯
+美团
+keeta
+滴滴
+快手
+
+foodpanda
+doordash
+uber
+uber eats
 
 特斯拉
 马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
-
 AMD
 
 谷歌
@@ -69,9 +41,10 @@ deepmind
 chatgpt
 openai
 sora
-
 claude
 Anthropic
+Grok
+Copilot
 
 iphone
 ipad
@@ -81,29 +54,44 @@ ios
 ai
 !gai
 人工智能
+LLM
 
-自动驾驶
-
-机器人
+DeepSeek
+Kimi
+千问
+QWen
+豆包
+混元
 
 国产
 中国
+国企
 
 美国
 日本
 韩国
+日韩
+欧洲
+欧盟
 
-芯片
-光刻机
+俄罗斯
+乌克兰
+俄乌
 
 科技
+芯片
+光刻机
+机器人
+具身智能
+自动驾驶
+新质生产力
+数字化转型
 
 核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
+火电
+新能源
+光伏
+水电
 
 月球
 登月
@@ -111,3 +99,18 @@ ai
 宇宙
 飞船
 航空
+
+科幻
+
+游戏
+playstation
+xbox
+switch
+steam
+
+黄金
+金价
+白银
+铜
+铝
+钢铁
